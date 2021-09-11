@@ -1,4 +1,4 @@
-#Pre-requisites
+**#Pre-requisite**
 Installation of JDK and maven software
 Execute mvn clean command
 
@@ -6,7 +6,7 @@ Execute mvn clean command
 Import the project in IDE
 Run Maven command to run the test "mvn clean verify"
 
-#Reports
+**#Reports**
 After execution is complete navigate to target/site/serenity folder
 open index.html in chrome browser
 click on test results and click on the scenario to view the screen shots and results
